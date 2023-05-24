@@ -1,5 +1,8 @@
 _repo: To-let_70459
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70459-h/images/cover.jpg
 creator:
   author:
     agent_name: Croker, B. M. (Bithia Mary)
@@ -12,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7895
     wikipedia: https://en.wikipedia.org/wiki/Bithia_Mary_Croker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70459#To-let
 gutenberg_issued: '2023-04-04'
 identifiers:
   gutenberg: '70459'
